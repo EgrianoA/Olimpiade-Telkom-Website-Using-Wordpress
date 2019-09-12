@@ -12,12 +12,12 @@ How to use :
 
 Here the of screenshot of the site :
 
-![Screen 1](Preview/olimpiadesite1.JPG)
+![Screen 1](Preview/Olimpiadesite1.JPG)
 ![Screen 2](Preview/olimpiadesite2.JPG)
-![Screen 3](Preview/olimpiadesite3.JPG)
-![Screen 4](Preview/olimpiadesite4.JPG)
-![Screen 5](Preview/olimpiadesite5.JPG)
-![Screen 6](Preview/olimpiadesite6.JPG)
+![Screen 3](Preview/Olimpiadesite3.JPG)
+![Screen 4](Preview/Olimpiadesite4.JPG)
+![Screen 5](Preview/Olimpiadesite5.JPG)
+![Screen 6](Preview/Olimpiadesite6.JPG)
 ![Screen 7](Preview/olimpiadesite7.JPG)
 ![Screen 8](Preview/olimpiadesite8.JPG)
 
